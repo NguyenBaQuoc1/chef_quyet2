@@ -305,7 +305,7 @@ html {
 }
 
 .nav-menu-item a {
-    color: black;
+    color: black !important;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
